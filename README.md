@@ -56,6 +56,6 @@ Hi Everyone, Welcome to Flutter bootcamp. This repository contains informations,
 | Week 1| 4   |[String Interpolation](https://github.com/Tuwaiq-Flutter/04-String-Interpolation.git)|[Lap](https://)|[-HW](https://)
 | Week 1| 5   |[Comments](https://github.com/Tuwaiq-Flutter/05-Comments.git)|[Lap](https://)|[-HW](https://)
 | Week 1| 6   |[Bracket Notation](https://github.com/Tuwaiq-Flutter/06-Bracket-Notation.git)|[Lap](https://)|[-HW](https://)
-| Week 7| 1   |[The Concept of Length](https://github.com/Tuwaiq-Flutter/07-The-Concept-of-Length.git)|[Lap](https://)|[-HW](https://)
-| Week 8| 1   |[Standard Input Output](https://github.com/Tuwaiq-Flutter/08-Standard-Input-Output.git)|[Lap](https://)|[-HW](https://)
+| Week 1| 7   |[The Concept of Length](https://github.com/Tuwaiq-Flutter/07-The-Concept-of-Length.git)|[Lap](https://)|[-HW](https://)
+| Week 1| 8   |[Standard Input Output](https://github.com/Tuwaiq-Flutter/08-Standard-Input-Output.git)|[Lap](https://)|[-HW](https://)
 
