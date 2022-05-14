@@ -4,7 +4,7 @@ Hi Everyone, Welcome to Flutter bootcamp. This repository contains informations,
 ## Schedule
 |  | Days | Time |
 | --- | ------------- | ------------- |
-| Class | Sun - Thurs  | 9am - 5pm  |
+| Class | Sun - Thurs  | 5am - 10pm  |
 
 ## Instructional Team
 * Fahad Alazmi (Lead Instructor)
