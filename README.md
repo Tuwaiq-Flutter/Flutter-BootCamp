@@ -65,5 +65,7 @@ Hi Everyone, Welcome to Flutter bootcamp. This repository contains informations,
 | Week 1| 3   |[Null Safety](https://github.com/Tuwaiq-Flutter/18-Null-safety.git)|[Lap](https://)|[-HW](https://)
 | Week 1| 4   |[Condition](https://github.com/Tuwaiq-Flutter/19-Condition.git)|[Lap](https://)|[-HW](https://)
 | Week 1| 4   |[Loop](https://github.com/Tuwaiq-Flutter/20-Loop.git)|[Lap](https://)|[-HW](https://)
+| Week 1| 4   |[Functions](https://github.com/Tuwaiq-Flutter/21-Functions.git)|[Lap](https://)|[-HW](https://)
+| Week 1| 4   |[null safety with Function](https://github.com/Tuwaiq-Flutter/22-Concept-null-safety-with-Function-.git)|[Lap](https://)|[-HW](https://)
 
 
