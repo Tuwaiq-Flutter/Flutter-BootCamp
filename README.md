@@ -69,7 +69,6 @@ Hi Everyone, Welcome to Flutter bootcamp. This repository contains informations,
 | Week 1| 4   |[Operators - Logical Operators](https://github.com/Tuwaiq-Flutter/13-Operators-Logical-Operators.git)|
 | Week 1| 4   |[Increment and Decrement](https://github.com/Tuwaiq-Flutter/12--Operators---Increment-and-Decrement.git)|
 | Week 1| 4   |[Ternary Conditional Operator ](https://github.com/Tuwaiq-Flutter/14-Ternary-Conditional-Operator.git)|
-| Week 1| 4   |[HW-1](https://github.com/Tuwaiq-Flutter/HM-1/blob/main/README.md)|
 | Week 1| 4   |[Condition](https://github.com/Tuwaiq-Flutter/19-Condition.git)|[Lap](https://)|[-HW](https://)
 | Week 1| 4   |[Loop](https://github.com/Tuwaiq-Flutter/20-Loop.git)|[Lap](https://)|[-HW](https://)
 | Week 1| 4   |[Functions](https://github.com/Tuwaiq-Flutter/21-Functions.git)|[Lap](https://)|[-HW](https://)
