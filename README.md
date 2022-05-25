@@ -77,6 +77,8 @@ Hi Everyone, Welcome to Flutter bootcamp. This repository contains informations,
 | Week 1| 4   |[Class and Object](https://github.com/Tuwaiq-Flutter/24-Class-and-Object.git)|[Lap](https://)|[-HW](https://)
 | Week 1| 4   |[Constructors](https://github.com/Tuwaiq-Flutter/25-Constructors.git)|[Lap](https://)|[-HW](https://)
 | Week 1| 4   |[Static Keyword](https://github.com/Tuwaiq-Flutter/26-Static-Keyword.git)|[Lap](https://)|[-HW](https://)
+| Week 1| 4   |[Inheritance](https://github.com/Tuwaiq-Flutter/26-Inheritance.git)|[Lap](https://)|[-HW](https://)
+| Week 1| 4   |[Const Final and late Keyword](https://github.com/Tuwaiq-Flutter/28-Const-Final-and-late-Keyword.git)|[Lap](https://)|[-HW](https://)
 
 
 
